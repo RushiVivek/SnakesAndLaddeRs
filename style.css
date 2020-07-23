@@ -4,3 +4,6 @@ body {
     background-color: lightskyblue;
     color: orangered;
 }
+a:hover {
+    color: orange;
+}
